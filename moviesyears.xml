@@ -1,4 +1,24 @@
   <dir>
+    <title>2022 Movies</title>
+    <tmdb>year/movies/2022</tmdb>
+  </dir>
+
+  <dir>
+    <title>2021 Movies</title>
+    <tmdb>year/movies/2021</tmdb>
+  </dir>
+
+  <dir>
+    <title>2020 Movies</title>
+    <tmdb>year/movies/2020</tmdb>
+  </dir>
+
+  <dir>
+    <title>2019 Movies</title>
+    <tmdb>year/movies/2019</tmdb>
+  </dir>
+
+  <dir>
     <title>2018 Movies</title>
     <tmdb>year/movies/2018</tmdb>
   </dir>
