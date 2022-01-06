@@ -1,8 +1,22 @@
 <dir>
+<title>A Nightmare on Elm Street Collection</title>
+<tmdb>collection/8581</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nO9j4qsCxBVpPwXtFxQr5gWIzfu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nO9j4qsCxBVpPwXtFxQr5gWIzfu.jpg</fanart>
+</dir>
+
+<dir>
 <title>Alien Collection</title>
 <tmdb>collection/8091</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVzIeC3PbG9BtDAudpwSNdKAgh6.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iVzIeC3PbG9BtDAudpwSNdKAgh6.jpg</fanart>
+</dir>
+
+<dir>
+<title>Back to the Future Collection</title>
+<tmdb>collection/264</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78z0WMBzBWOnCsXWulihPJKCToL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78z0WMBzBWOnCsXWulihPJKCToL.jpg</fanart>
 </dir>
 
 <dir>
@@ -59,6 +73,13 @@
 <tmdb>collection/645</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/HORpg5CSkmeQlAolx3bKMrKgfi.jpg</fanart>
+</dir>
+
+<dir>
+<title>Jurassic Park Collection</title>
+<tmdb>collection/328</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qIm2nHXLpBBdMxi8dvfrnDkBUDh.jpg</fanart>
 </dir>
 
 <dir>
