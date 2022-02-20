@@ -3586,13 +3586,13 @@ def tv_show_menu():
     all_d=[]
     import datetime
     now = datetime.datetime.now()
-    aa=addDir3('Magic Dragon Latest Episodes / Seasons', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Latest Episodes / Seasons[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon TV Genre', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/tvgenre.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
-    all_d.append(aa)
-    aa=addDir3('Magic Dragon TV Selected Series', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/selectedseries.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon TV Selected Series[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/selectedseries.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
     all_d.append(aa)    
-    aa=addDir3('Magic Dragon Concerts', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/concerts.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/concerts.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('TV Genre', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/tvgenre.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
     all_d.append(aa)	
     aa=addDir3(Addon.getLocalizedString(32023),'tv',145,BASE_LOGO+'tracker.png',all_fanarts['32023'],'History')
     #Popular
@@ -3732,10 +3732,15 @@ def main_menu(time_data):
     mypass=""
     key='zWrite'
     mypass=crypt(mypass,key)
-
-
-    aa=addDir3('Welcome To The Magic Dragon', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
-    all_d.append(aa)		
+    
+    aa=addDir3('[B][COLORred]****[/B][/COLOR][B][COLORyellow]WELCOME TO THE MAGIC DRAGON[/B][/COLOR][B][COLORred]****[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[B][COLORred]***************************************[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[B][COLORyellow]Magic Dragon New Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    all_d.append(aa)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Box Sets[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/boxsets.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
+    all_d.append(aa)    
     #place your MicroJen playlist here:
     #dulpicate this line with your address
     #aa=addDir3('Name', 'Your Jen Address',189,'Iconimage','fanart','Description',search_db='Your Search db Address')
@@ -3812,30 +3817,30 @@ def main_menu(time_data):
     return time_data
 def movie_world():
     all_d=[]
-    aa=addDir3('Magic Dragon New Releases', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon New Releases',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon New Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon New Releases',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon 4K Movies', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/uhd1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon 4K Movies',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Box Sets[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/boxsets.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    all_d.append(aa)   
+    aa=addDir3('[B][COLORyellow]Magic Dragon 4K Movies[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/uhd1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon 4K Movies',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon People Watching', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/popular1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon People Watching',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon People Watching[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/popular1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon People Watching',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon Cams/HDTS Releases', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/cams1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Cams/HDTS Releases',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Cams/HDTS Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/cams1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Cams/HDTS Releases',mypass=mypass)
     all_d.append(aa)	
-    aa=addDir3('Magic Dragon Movie Picks', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/requestedmovies1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Movie Picks',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Movie Picks[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/requestedmovies1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Movie Picks',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon Disney Collection', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Disney Collection[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
     all_d.append(aa)	
-    aa=addDir3('Magic Dragon Christmas 2021', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Magic Dragon Christmas 2021',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Christmas 2021[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Magic Dragon Christmas 2021',mypass=mypass)
     all_d.append(aa)	
-    aa=addDir3('Magic Dragon Documentaries', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/documentaries1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]Magic Dragon Documentaries[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/documentaries1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
     all_d.append(aa)	
-    aa=addDir3('Magic Dragon Genre', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/genre.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    aa=addDir3('Movies By Genre', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/genre.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon Oscars', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oscars.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    aa=addDir3('Oscars', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oscars.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon Movies Years', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/moviesyears.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
+    aa=addDir3('Movies Years', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/moviesyears.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('Magic Dragon Box Sets', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/boxsets.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Documentaries',mypass=mypass)
-    all_d.append(aa)	
     aa=addDir3(Addon.getLocalizedString(32295),'http://api.themoviedb.org/3/movie/now_playing?api_key=34142515d9d23817496eeb4ff1d223d0&language=%s&page=1'%lang,14,BASE_LOGO+'int.png',all_fanarts['32295'],'Tmdb')
     all_d.append(aa)
     'Popular Movies'
