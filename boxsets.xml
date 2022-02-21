@@ -80,10 +80,24 @@ https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix
 </dir>
 
 <dir>
+<title>Avengers Collection</title>
+<tmdb>collection/86311</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/qJawKUQcIBha507UahUlX0keOT7.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/zuW6fOiusv4X9nnW3paHGfXcSll.jpg</fanart>
+</dir>
+
+<dir>
 <title>AVP Collection</title>
 <tmdb>collection/115762</tmdb>
 <thumbnail>https://image.tmdb.org/t/p/w1280/zrApSsUX9i0qVntcCD0Pp55TdCy.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/cbAh128RfHTkKDsVsIZZjXwv593.jpg</fanart>
+</dir>
+
+<dir>
+<title>Babylon 5 Collection</title>
+<tmdb>collection/10441</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg</fanart>
 </dir>
 
 <dir>
@@ -101,6 +115,13 @@ https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix
 </dir>
 
 <dir>
+<title>Barbershop Collection</title>
+<tmdb>collection/176097</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w185/glSSzT4jwKblxxGXN0lHWxbyhUH.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xIA97c95X8i6MlO81AfspMo21UN.jpg</fanart>
+</dir>
+
+<dir>
 <title>Batman Collection</title>
 <tmdb>collection/120794</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/adQxUvQW8HXNsvMG5aj71pHh9T.jpg</thumbnail>
@@ -108,10 +129,31 @@ https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix
 </dir>
 
 <dir>
+<title>Batman The Dark Knight Collection</title>
+<tmdb>collection/263</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/bqS2lMgGkuodIXtDILFWTSWDDpa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg</fanart>
+</dir>
+
+<dir>
+<title>Bean Movie Collection</title>
+<tmdb>collection/120794</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg</fanart>
+</dir>
+
+<dir>
 <title>Beverly Hills Cop Collection</title>
 <tmdb>collection/85861</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjKbHh7GpTARbiLj0RF7zc5iD0G.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fjKbHh7GpTARbiLj0RF7zc5iD0G.jpg</fanart>
+</dir>
+
+<dir>
+<title>Big Momma's House Collection</title>
+<tmdb>collection/44979</tmdb>
+<thumbnail>https://image.tmdb.org/t/p/w1280/nFJauk5E72nZNZJU4TZFCdMycYE.jpg</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/wk7mQSZmDz5vSET5mleTHKe76Uy.jpg</fanart>
 </dir>
 
 <dir>
