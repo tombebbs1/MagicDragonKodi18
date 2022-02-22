@@ -10,6 +10,13 @@ https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix
 </dir>
 
 <dir>
+<title>[B][COLORred]Selected Stars[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/people1.xml</link>
+<thumbnail>https://i.pinimg.com/originals/5b/13/f8/5b13f8ecf6f785373acffa8d4210237c.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/5b/13/f8/5b13f8ecf6f785373acffa8d4210237c.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORblue]Disney Boxsets Here[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml</link>
 <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg</thumbnail>
