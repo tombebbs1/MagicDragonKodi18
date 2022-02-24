@@ -18,13 +18,6 @@
 </item>
 
 <dir>
-<title>[B][COLORwhite]Upcoming Movie Trailers[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/trailers.xml</link>
-<thumbnail>https://www.filmink.com.au/wp-content/uploads/2020/07/trailer.jpg</thumbnail>
-<fanart>https://www.filmink.com.au/wp-content/uploads/2020/07/trailer.jpg</fanart>
-</dir>
-
-<dir>
 <title>[B][COLORblue]New Releases Page 2[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases2.xml</link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
