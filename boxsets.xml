@@ -30,6 +30,13 @@
 </dir>
 
 <dir>
+<title>[B][COLORorange]Disney Movies[/B][/COLOR]</title>
+<tmdb>company/movies/1</tmdb>
+<thumbnail>https://wallpaperaccess.com/full/1793572.jpg</thumbnail>
+<fanart>https://wallpaperaccess.com/full/1793572.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORblue]Disney Boxsets Here[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml</link>
 <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg</thumbnail>
