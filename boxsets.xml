@@ -44,6 +44,14 @@
 </dir>
 
 <dir>
+<title>[B][COLORgreen]Hallmark Movies[/B][/COLOR]</title>
+<tmdb>company/movies/155325</tmdb>
+<thumbnail>https://i.pinimg.com/originals/f8/40/37/f84037bdf26cde372420943cbdd8bb4f.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/f8/40/37/f84037bdf26cde372420943cbdd8bb4f.jpg</fanart>
+</dir>
+
+
+<dir>
 <title>[B][COLORblue]Disney Boxsets Here[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml</link>
 <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg</thumbnail>
