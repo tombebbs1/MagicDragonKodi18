@@ -48,9 +48,6 @@
 </dir>
 
 <dir>
-<title>Star Wars Audio Books</title>
-<temp4_movie>genre/Audio Books</temp4_movie>
-<fanart>http://ukodi1.com/images/G4xUAWx.jpg</fanart>
-<thumbnail>http://uk1.site/images/AUDIO.png</thumbnail>
-<summary>Audio Books</summary>
-</dir> 
+<title>Pixar Animation</title>
+<tmdb>company/movies/3</tmdb>
+</dir>
