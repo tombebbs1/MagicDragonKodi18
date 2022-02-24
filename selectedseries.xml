@@ -1,3 +1,19 @@
+<item>
+<title>[B][COLOR white]YOU ARE IN SELECTED SERIES SECTION[/COLOR]</title>
+<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases2.xml</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR gold]****************************************[/B][/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc></jsonrpc>
+<thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
+<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+</item>
+
 <dir>
 <title>1883 (2021)</title>
 <tmdb>tv/118357</tmdb>
@@ -326,6 +342,13 @@
 <tmdb>tv/60735</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Gilded Age (2022)</title>
+<tmdb>tv/81723</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ynAJYVES5ignKInbQhKSOY1MhKT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ynAJYVES5ignKInbQhKSOY1MhKT.jpg</fanart>
 </dir>
 
 <dir>
