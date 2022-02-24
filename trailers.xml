@@ -1,29 +1,33 @@
-	<dir>
-	  <title>The Lost City TRAILER</title>
-	  <tmdb>trailer/752623</tmdb>
-	</dir>
-	
-	<dir>
-	  <title>Morbius (2022) TRAILER</title>
-	  <tmdb>trailer/526896</tmdb>
-	</dir>
-	
-	<dir>
-	  <title>Doctor Strange in the Multiverse of Madness (2022) TRAILER</title>
-	  <tmdb>trailer/453395</tmdb>
-	</dir>
+<items>
 
-	<dir>
-	  <title>Jurassic World Dominion (2022) TRAILER</title>
-	  <tmdb>trailer/507086</tmdb>
-	</dir>
+<dir>
+<title>The Lost City TRAILER</title>
+<tmdb>trailer/752623</tmdb>
+</dir>
 	
-	<dir>
-	  <title>The Batman (2022) TRAILER</title>
-	  <tmdb>trailer/414906</tmdb>
-	</dir>
+<dir>
+<title>Morbius (2022) TRAILER</title>
+<tmdb>trailer/526896</tmdb>
+</dir>
+	
+<dir>
+<title>Doctor Strange in the Multiverse of Madness (2022) TRAILER</title>
+<tmdb>trailer/453395</tmdb>
+</dir>
 
-	<dir>
-	  <title>Black Adam (2022) TRAILER</title>
-	  <tmdb>trailer/436270</tmdb>
-	</dir>	
+<dir>
+<title>Jurassic World Dominion (2022) TRAILER</title>
+<tmdb>trailer/507086</tmdb>
+</dir>
+	
+<dir>
+<title>The Batman (2022) TRAILER</title>
+<tmdb>trailer/414906</tmdb>
+</dir>
+
+<dir>
+<title>Black Adam (2022) TRAILER</title>
+<tmdb>trailer/436270</tmdb>
+</dir>	
+
+</items>
