@@ -37,6 +37,13 @@
 </dir>
 
 <dir>
+<title>[B][COLORred]Dreamworks Movies[/B][/COLOR]</title>
+<tmdb>company/movies/7</tmdb>
+<thumbnail>https://i.pinimg.com/originals/58/17/b6/5817b64c1cef9c2defa0b74f85016891.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/58/17/b6/5817b64c1cef9c2defa0b74f85016891.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORblue]Disney Boxsets Here[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml</link>
 <thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/disney-movies-1613592418.jpg</thumbnail>
