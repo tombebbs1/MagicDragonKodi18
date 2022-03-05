@@ -18,6 +18,13 @@ https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix
 </dir>
 
 <dir>
+<title>[B][COLOR white]Upcoming Trailers[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/trailers.xml</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c5/Sneak-previews.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/en/c/c5/Sneak-previews.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORblue]New Releases Page 2[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases2.xml</link>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
