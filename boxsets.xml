@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>[B][COLORwhite]Christmas Movies 2021/22[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml</link>
+<thumbnail>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</thumbnail>
+<fanart>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORwhite]Director Cuts Movies Here[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/directorscut.xml</link>
 <thumbnail>https://i1.sndcdn.com/avatars-000225918904-4au92b-original.jpg</thumbnail>
