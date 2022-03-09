@@ -1,4 +1,18 @@
 <dir>
+<title>Al Pacino</title>
+<tmdb>person/1158</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg</fanart>
+</dir>
+
+<dir>
+<title>Brad Pitt</title>
+<tmdb>person/287</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTB9vGIBacH5aQNS0pUM74QSWuf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTB9vGIBacH5aQNS0pUM74QSWuf.jpg</fanart>
+</dir>
+
+<dir>
 <title>Bruce Willis</title>
 <tmdb>person/62</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/caX3KtMU42EP3VLRFFBwqIIrch5.jpg</thumbnail>
@@ -27,10 +41,24 @@
 </dir>
 
 <dir>
+<title>Keanu Reeves</title>
+<tmdb>person/6384</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg</fanart>
+</dir>
+
+<dir>
 <title>Marilyn Monroe</title>
 <tmdb>person/3149</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vcp6rHL2sZWdlJQDEWsEe0jAAe1.jpg</fanart>
+</dir>
+
+<dir>
+<title>Rosamund Pike</title>
+<tmdb>person/10882</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8ObNklHDi2hjdz0ayzJFB9jtqzm.jpg</fanart>
 </dir>
 
 <dir>
@@ -47,7 +75,3 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg</fanart>
 </dir>
 
-<dir>
-<title>Pixar Animation</title>
-<tmdb>company/movies/3</tmdb>
-</dir>
