@@ -21,19 +21,18 @@
 <fanart>https://cdn.shopify.com/s/files/1/1230/7514/products/HorrorSectionPosterSmall.png</fanart>
 </dir>
 
-
-<dir>
-<title>[B][COLORblue]Top Rated[/B][/COLOR]</title>
-<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/top-rated.xml</link>
-<thumbnail>https://m.media-amazon.com/images/S/aplus-media/sc/dba42f7a-7b86-45cd-a33d-58dcc0ec8851.__CR0,0,970,600_PT0_SX970_V1___.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/S/aplus-media/sc/dba42f7a-7b86-45cd-a33d-58dcc0ec8851.__CR0,0,970,600_PT0_SX970_V1___.jpg</fanart>
-</dir>
-
 <dir>
 <title>[B][COLORgreen]Selected Stars[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/people1.xml</link>
 <thumbnail>https://i.pinimg.com/originals/5b/13/f8/5b13f8ecf6f785373acffa8d4210237c.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/5b/13/f8/5b13f8ecf6f785373acffa8d4210237c.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLORblue]Top Rated[/B][/COLOR]</title>
+<tmdb>movies/top-rated.xml</tmdb>
+<thumbnail>https://m.media-amazon.com/images/S/aplus-media/sc/dba42f7a-7b86-45cd-a33d-58dcc0ec8851.__CR0,0,970,600_PT0_SX970_V1___.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/S/aplus-media/sc/dba42f7a-7b86-45cd-a33d-58dcc0ec8851.__CR0,0,970,600_PT0_SX970_V1___.jpg</fanart>
 </dir>
 
 <dir>
