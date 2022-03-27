@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>[B][COLORwhite]TEST[/B][/COLOR]</title>
+<link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/daily.json</link>
+<thumbnail>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</thumbnail>
+<fanart>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORwhite]Christmas Movies 2021/22[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml</link>
 <thumbnail>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</thumbnail>
