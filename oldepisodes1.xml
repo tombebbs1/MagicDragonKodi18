@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>From (2022) RD Only</title>
+<tmdb>tv/124364</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</fanart>
+</dir>
+
+<dir>
 <title>The Walking Dead (2010) RD Only</title>
 <tmdb>tv/1402</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
@@ -58,12 +65,7 @@
 <fanart></fanart>
 </item>
 
-<dir>
-<title>From (2022) RD Only</title>
-<tmdb>tv/124364</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Star Trek: Discovery (2017) RD Only</title>
