@@ -8,11 +8,11 @@
 </item>
 
 <item>
-<title>[B][COLOR white]YOU ARE IN THE NEW RELEASES[/B][/COLOR]</title>
-<link>https://www.youtube.com/c/MusicDocumentaries/playlists</link>
-<jsonrpc>https://www.youtube.com/c/MusicDocumentaries/playlists</jsonrpc>
+<title>[COLORwhite]Biography Documentaries[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLCBLlrBlEN1skMs2pGboan7_lfio_s8Z-/?page=0</jsonrpc>
 <thumbnail>https://i.imgur.com/dm1Tk83.png</thumbnail>
-<fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
+<fanart></fanart>
 </item>
 
 <item>
