@@ -1,6 +1,20 @@
 <items>
 
 <dir>
+<title>We Own This City (2022) RD Only</title>
+<tmdb>tv/125949</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</fanart>
+</dir>
+
+<dir>
+<title>Better Call Saul (2015) RD Only</title>
+<tmdb>tv/60059</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
+</dir>
+
+<dir>
 <title>Fear the Walking Dead (2015) RD Only</title>
 <tmdb>tv/62286</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyshFjmlDXSzfns2Qk81cfIFfPP.jpg</thumbnail>
@@ -106,19 +120,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vSk9On9NPZKX9e4zlu7ribuRIMB.jpg</fanart>
 </dir>
 
-<dir>
-<title>Better Call Saul (2015) RD Only</title>
-<tmdb>tv/60059</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
-</dir>
 
-<dir>
-<title>We Own This City (2022) RD Only</title>
-<tmdb>tv/125949</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</fanart>
-</dir>
+
+
 
 
 
