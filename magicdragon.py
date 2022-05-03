@@ -3567,7 +3567,7 @@ def tv_show_menu():
     aa=addDir3(Addon.getLocalizedString(32023),'tv',145,BASE_LOGO+'tracker.png',all_fanarts['32023'],'History')
     #Popular
     aa=addDir3(Addon.getLocalizedString(32012),'http://api.themoviedb.org/3/tv/popular?api_key=34142515d9d23817496eeb4ff1d223d0&language=%s&page=1'%lang,14,BASE_LOGO+'popular.png',all_fanarts['32013'],'TMDB')
-    all_d.append(aa)
+    all_d.append(aa)    
 
     aa=addDir3(Addon.getLocalizedString(32013),'https://api.themoviedb.org/3/tv/on_the_air?api_key=34142515d9d23817496eeb4ff1d223d0&language=%s&page=1'%lang,14,BASE_LOGO+'on_air.png',all_fanarts['32013'],'TMDB')
     all_d.append(aa)
@@ -3716,30 +3716,26 @@ def main_menu(time_data):
     if Addon.getSetting('tv_world')=='true':
         aa=addDir3(Addon.getLocalizedString(32025),'www',3,BASE_LOGO+'tv.png',all_fanarts['32025'],'TV')
         all_d.append(aa)       
-    aa=addDir3('[B][COLORyellow]Magic Dragon New Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon New Releases[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD New Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/newreleases1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon New Releases[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon Box Sets[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/boxsets.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Box Sets[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD Box Sets[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/boxsets.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Box Sets[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon 4K Movies[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/uhd1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon 4K Movies[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD 4K Movies[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/uhd1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon 4K Movies[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon People Watching[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/popular1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon People Watching[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD People Watching[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/popular1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon People Watching[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon Cams/HDTS Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/cams1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Cams/HDTS Releases[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD Cams/HDTS Releases[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/cams1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Cams/HDTS Releases[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)	
-    aa=addDir3('[B][COLORyellow]Magic Dragon Movie Picks[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/requestedmovies1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Movie Picks[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD Movie Picks[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/requestedmovies1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Movie Picks[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon Disney Collection[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/disneycollection.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Disney Collection[/B][/COLOR]',mypass=mypass)
-    all_d.append(aa)	
-    aa=addDir3('[B][COLORyellow]Magic Dragon Christmas 2021[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/christmas20191.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Christmas 2021[/B][/COLOR]',mypass=mypass)
-    all_d.append(aa)	
-    aa=addDir3('[B][COLORyellow]Magic Dragon Documentaries[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/documentaries1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Documentaries[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD Stand Up[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/standup.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Disney Collection[/B][/COLOR]',mypass=mypass)
+    all_d.append(aa)		
+    aa=addDir3('[B][COLORyellow]MD Documentaries[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/documentaries1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Documentaries[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon Latest Episodes / Seasons[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Latest Episodes / Seasons[/B][/COLOR]',mypass=mypass)
+    aa=addDir3('[B][COLORyellow]MD Latest Episodes / Seasons[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Latest Episodes / Seasons[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
-    aa=addDir3('[B][COLORyellow]Magic Dragon TV Selected Series[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/selectedseries.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]',mypass=mypass)
-    all_d.append(aa)    
-    aa=addDir3('[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/concerts.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','Magic Dragon Latest Episodes / Seasons',mypass=mypass)
-    all_d.append(aa)   
+    aa=addDir3('[B][COLORyellow]MD TV Selected Series[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/selectedseries.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]',mypass=mypass)
+    all_d.append(aa)       
     #aa=addDir3('One Click free','www',198,'https://i1.wp.com/reviewvpn.com/wp-content/uploads/2020/07/How-to-Install-T2K-One-Click-Movie-Addon-e1595234117323.png?fit=305%2C321&ssl=1','https://i1.wp.com/paulsohn.org/wp-content/uploads/2012/05/movie-click.jpg','Movies')
     #all_d.append(aa)
     if Addon.getSetting('trakt_world')=='true':
@@ -3913,7 +3909,6 @@ def movie_prodiction():
         order_by='vote_average.desc'
     elif Addon.getSetting("order_networks")=='1':
         order_by='first_air_date.desc'
-    
     
     aa=addDir3('[COLOR red]Marvel[/COLOR]','https://'+'api.themoviedb.org/3/discover/movie?api_key=34142515d9d23817496eeb4ff1d223d0&with_companies=7505&language={0}&sort_by={1}&timezone=America%2FNew_York&include_null_first_air_dates=false&page=1'.format(lang,order_by),14,'https://yt3.ggpht.com/a-/AN66SAwQlZAow0EBMi2-tFht-HvmozkqAXlkejVc4A=s900-mo-c-c0xffffffff-rj-k-no','https://images-na.ssl-images-amazon.com/images/I/91YWN2-mI6L._SL1500_.jpg','Marvel')
     all_d.append(aa)
