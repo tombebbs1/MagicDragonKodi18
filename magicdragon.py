@@ -3735,7 +3735,9 @@ def main_menu(time_data):
     aa=addDir3('[B][COLORyellow]MD Latest Episodes / Seasons[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/oldepisodes1.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Latest Episodes / Seasons[/B][/COLOR]',mypass=mypass)
     all_d.append(aa)
     aa=addDir3('[B][COLORyellow]MD TV Selected Series[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/selectedseries.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]',mypass=mypass)
-    all_d.append(aa)       
+    all_d.append(aa) 
+    aa=addDir3('[B][COLORyellow]MD Music Greatest Hits[/B][/COLOR]', 'https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/greatesthits.xml',189,'https://i.imgur.com/dm1Tk83.png','https://i.imgur.com/U5nKN8r.jpg','[B][COLORyellow]Magic Dragon Concerts[/B][/COLOR]',mypass=mypass)
+    all_d.append(aa)    
     #aa=addDir3('One Click free','www',198,'https://i1.wp.com/reviewvpn.com/wp-content/uploads/2020/07/How-to-Install-T2K-One-Click-Movie-Addon-e1595234117323.png?fit=305%2C321&ssl=1','https://i1.wp.com/paulsohn.org/wp-content/uploads/2012/05/movie-click.jpg','Movies')
     #all_d.append(aa)
     if Addon.getSetting('trakt_world')=='true':
