@@ -1,5 +1,18 @@
 <items>
 
+<dir>
+<title>Star Trek: Picard (2020) RD Only</title>
+<tmdb>tv/85949</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
+</dir>
+
+<dir>
+<title>Halo (2022) RD Only</title>
+<tmdb>tv/52814</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</fanart>
+</dir>
 
 <dir>
 <title>Star Trek: Strange New Worlds (2022) RD Only</title>
@@ -113,19 +126,9 @@
 
 
 
-<dir>
-<title>Star Trek: Picard (2020) RD Only</title>
-<tmdb>tv/85949</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
-</dir>
 
-<dir>
-<title>Halo (2022) RD Only</title>
-<tmdb>tv/52814</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eO0QV5qJaEngP1Ax9w3eV6bJG2f.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>That Dirty Black Bag (2022) RD Only</title>
