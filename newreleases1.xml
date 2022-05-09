@@ -39,7 +39,7 @@
 </item>
 
 <item>
-<title>[COLOR gold]Test[/COLOR]</title>
+<title>[COLOR gold]Test1[/COLOR]</title>
 <link>
 <sublink>https://1fichier.com/?4pene9l9mwbf0j8w5jku(Link 1=1080p)</sublink>
 <sublink>https://uptobox.com/fmuok948omj9(Link 2=1080p)</sublink>
@@ -47,12 +47,12 @@
 </link>
 <thumbnail>https://image.tmdb.org/t/p/original/hrD8fU6tA1Pzh4ybxG4iN5TbVdU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uS2viyLKIeCJPnddtQPclqNwxI5.jpg</fanart>
-        <meta>
-            <content>movie</content>
-            <imdb>tt4058836</imdb>	
-            <title>I Spit on Your Grave: Deja Vu</title> 		
-            <year>2019</year>
-        </meta>
+<meta>
+<content>movie</content>
+<tmdb>movie/946951</tmdb>	
+<title>I Spit on Your Grave: Deja Vu</title> 		
+<year>2019</year>
+</meta>
 </item>
 
 <item>
