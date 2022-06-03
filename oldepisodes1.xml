@@ -1,6 +1,76 @@
 <items>
 
 <dir>
+<title>Gaslit (2022) RD Only</title>
+<tmdb>tv/107407</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Man Who Fell to Earth (2022) RD Only</title>
+<tmdb>tv/118663</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</fanart>
+</dir>
+
+<dir>
+<title>Fear the Walking Dead (2015) RD Only</title>
+<tmdb>tv/62286</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyshFjmlDXSzfns2Qk81cfIFfPP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyshFjmlDXSzfns2Qk81cfIFfPP.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Time Traveler's Wife (2022) RD Only</title>
+<tmdb>tv/81322</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7gKiAdNHf0uLkZAdgWgLGrPtll.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7gKiAdNHf0uLkZAdgWgLGrPtll.jpg</fanart>
+</dir>
+
+<dir>
+<title>Superman & Lois (2021) RD Only</title>
+<tmdb>tv/95057</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utpXq61UIlfNUuviz2hRmCEYdYr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utpXq61UIlfNUuviz2hRmCEYdYr.jpg</fanart>
+</dir>
+
+<dir>
+<title>We Own This City (2022) RD Only</title>
+<tmdb>tv/125949</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</fanart>
+</dir>
+
+<dir>
+<title>Obi-Wan Kenobi (2022) RD Only</title>
+<tmdb>tv/92830</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Orville (2017) RD Only</title>
+<tmdb>tv/71738</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</fanart>
+</dir>
+
+<dir>
+<title>Star Trek: Strange New Worlds (2022) RD Only</title>
+<tmdb>tv/103516</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Staircase (2022) RD Only</title>
+<tmdb>tv/122196</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg</fanart>
+</dir>
+
+<dir>
 <title>The Boys (2019) RD Only</title>
 <tmdb>tv/76479</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/stTEycfG9928HYGEISBFaG1ngjM.jpg</thumbnail>
@@ -21,12 +91,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yMdFsHKp4YX2CUkAQcZswxXDuoe.jpg</fanart>
 </dir>
 
-<dir>
-<title>Obi-Wan Kenobi (2022) RD Only</title>
-<tmdb>tv/92830</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qJRB789ceLryrLvOKrZqLKr2CGf.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Stranger Things (2016) RD Only</title>
@@ -35,19 +100,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg</fanart>
 </dir>
 
-<dir>
-<title>Star Trek: Strange New Worlds (2022) RD Only</title>
-<tmdb>tv/103516</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg</fanart>
-</dir>
 
-<dir>
-<title>The Staircase (2022) RD Only</title>
-<tmdb>tv/122196</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>Prehistoric Planet (2022) RD Only</title>
@@ -77,19 +132,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jMoX9mDke062ROZp5OOTGZSlYzT.jpg</fanart>
 </dir>
 
-<dir>
-<title>We Own This City (2022) RD Only</title>
-<tmdb>tv/125949</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qNOYmU6JYMeu2I0xOX9pgCBOBXi.jpg</fanart>
-</dir>
 
-<dir>
-<title>Fear the Walking Dead (2015) RD Only</title>
-<tmdb>tv/62286</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyshFjmlDXSzfns2Qk81cfIFfPP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zyshFjmlDXSzfns2Qk81cfIFfPP.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>Better Call Saul (2015) RD Only</title>
@@ -98,12 +143,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
 </dir>
 
-<dir>
-<title>The Time Traveler's Wife (2022) RD Only</title>
-<tmdb>tv/81322</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7gKiAdNHf0uLkZAdgWgLGrPtll.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/m7gKiAdNHf0uLkZAdgWgLGrPtll.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Family Guy (1999) RD Only</title>
@@ -112,19 +152,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9RBeCo8QSaoJLmmuzlwzVH3Hi12.jpg</fanart>
 </dir>
 
-<dir>
-<title>Gaslit (2022) RD Only</title>
-<tmdb>tv/107407</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</fanart>
-</dir>
 
-<dir>
-<title>The Man Who Fell to Earth (2022) RD Only</title>
-<tmdb>tv/118663</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>Billy the Kid (2022) RD Only</title>
@@ -180,12 +210,7 @@
 </dir>
 
 
-<dir>
-<title>Superman & Lois (2021) RD Only</title>
-<tmdb>tv/95057</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utpXq61UIlfNUuviz2hRmCEYdYr.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utpXq61UIlfNUuviz2hRmCEYdYr.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Moon Knight (2022) RD Only</title>
