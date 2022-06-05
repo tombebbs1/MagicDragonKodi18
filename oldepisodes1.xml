@@ -1,10 +1,10 @@
 <items>
 
 <dir>
-<title>Gaslit (2022) RD Only</title>
-<tmdb>tv/107407</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</fanart>
+<title>Billy the Kid (2022) RD Only</title>
+<tmdb>tv/138971</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JyuHbdVIhBoArxEtifLrzodUEM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JyuHbdVIhBoArxEtifLrzodUEM.jpg</fanart>
 </dir>
 
 <dir>
@@ -13,6 +13,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67qHJvI4J99khLpvMcn8ljocfIG.jpg</fanart>
 </dir>
+
+<dir>
+<title>Gaslit (2022) RD Only</title>
+<tmdb>tv/107407</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6B1EgOGOR5VPR1UK4ERlot1H5yM.jpg</fanart>
+</dir>
+
+
 
 <dir>
 <title>Fear the Walking Dead (2015) RD Only</title>
@@ -156,12 +165,7 @@
 
 
 
-<dir>
-<title>Billy the Kid (2022) RD Only</title>
-<tmdb>tv/138971</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JyuHbdVIhBoArxEtifLrzodUEM.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3JyuHbdVIhBoArxEtifLrzodUEM.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Night Sky (2022)) RD Only</title>
