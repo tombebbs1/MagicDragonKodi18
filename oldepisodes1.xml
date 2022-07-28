@@ -1,6 +1,20 @@
 <items>
 
 <dir>
+<title>Tom Swift (2022) RD Only</title>
+<tmdb>tv/132380</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Orville (2017) RD Only</title>
+<tmdb>tv/71738</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</fanart>
+</dir>
+
+<dir>
 <title>The Twelve (2022) RD Only</title>
 <tmdb>tv/202113</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j909kNP5oqDCpewjS2EBhhkAkCn.jpg</thumbnail>
@@ -28,12 +42,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg</fanart>
 </dir>
 
-<dir>
-<title>The Orville (2017) RD Only</title>
-<tmdb>tv/71738</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78xnHh9H5wYcUeZoB0bt1UgInAW.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Moonhaven (2022) RD Only</title>
@@ -58,12 +67,7 @@
 
 
 
-<dir>
-<title>Tom Swift (2022) RD Only</title>
-<tmdb>tv/132380</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3swe2ZS5xUFmwF7u917BLyYOo7D.jpg</fanart>
-</dir>
+
 
 
 
