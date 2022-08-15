@@ -1,6 +1,20 @@
 <items>
 
 <dir>
+<title>Westworld (2016) RD Only</title>
+<tmdb>tv/63247</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg</fanart>
+</dir>
+
+<dir>
+<title>Better Call Saul (2015) RD Only</title>
+<tmdb>tv/60059</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
+</dir>
+
+<dir>
 <title>American Horror Stories (2021) RD Only</title>
 <tmdb>tv/113036</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50AuXrycD7Q61o0Kppby5DTVOKP.jpg</thumbnail>
@@ -35,19 +49,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3mhNNECi59sVi85Nc03FPntlJI.jpg</fanart>
 </dir>
 
-<dir>
-<title>Better Call Saul (2015) RD Only</title>
-<tmdb>tv/60059</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
-</dir>
 
-<dir>
-<title>Westworld (2016) RD Only</title>
-<tmdb>tv/63247</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y55oBgf6bVMI7sFNXwJDrSIxPQt.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>Black Bird (2022) RD Only</title>
