@@ -1,10 +1,17 @@
 <items>
 
 <dir>
-<title>Test RD Only</title>
-<tmdb>tv/202113-the-twelve</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j909kNP5oqDCpewjS2EBhhkAkCn.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j909kNP5oqDCpewjS2EBhhkAkCn.jpg</fanart>
+<title>All or Nothing: Arsenal (2022) RD Only</title>
+<tmdb>tv/132376</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LztV8nZYJy30BVVpI1IwMhX8Dd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LztV8nZYJy30BVVpI1IwMhX8Dd.jpg</fanart>
+</dir>
+
+<dir>
+<title>American Horror Stories (2021) RD Only</title>
+<tmdb>tv/113036</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50AuXrycD7Q61o0Kppby5DTVOKP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50AuXrycD7Q61o0Kppby5DTVOKP.jpg</fanart>
 </dir>
 
 <dir>
@@ -28,12 +35,6 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fC2HDm5t0kHl7mTm7jxMR31b7by.jpg</fanart>
 </dir>
 
-<dir>
-<title>American Horror Stories (2021) RD Only</title>
-<tmdb>tv/113036</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50AuXrycD7Q61o0Kppby5DTVOKP.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/50AuXrycD7Q61o0Kppby5DTVOKP.jpg</fanart>
-</dir>
 
 <dir>
 <title>Pretty Little Liars: Original Sin (2022) RD Only</title>
@@ -44,12 +45,7 @@
 
 
 
-<dir>
-<title>All or Nothing: Arsenal (2022) RD Only</title>
-<tmdb>tv/132376</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LztV8nZYJy30BVVpI1IwMhX8Dd.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4LztV8nZYJy30BVVpI1IwMhX8Dd.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>I Am Groot (2022) RD Only</title>
