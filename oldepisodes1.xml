@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>The Walking Dead (2010) RD Only</title>
+<tmdb>tv/1402</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</fanart>
+</dir>
+
+<dir>
 <title>Quantum Leap (2022) RD Only</title>
 <tmdb>tv/202102</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</thumbnail>
@@ -102,18 +109,6 @@
 <tmdb>tv/69478</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQeGtLGVUCjJDuZrsGp90v2eafs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQeGtLGVUCjJDuZrsGp90v2eafs.jpg</fanart>
-</dir>
-
-
-
-
-
-
-<dir>
-<title>The Walking Dead (2010) RD Only</title>
-<tmdb>tv/1402</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</fanart>
 </dir>
 
 
