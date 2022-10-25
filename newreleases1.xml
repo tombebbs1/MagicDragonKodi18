@@ -17,6 +17,11 @@
 </dir>
 
 <dir>
+  <title>Test</title>
+  <tmdb>genre/movies/upcoming</tmdb>
+</dir>
+
+<dir>
 <title>[B][COLOR white]Upcoming Trailers[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/trailers.xml</link>
 <thumbnail>https://sofy.tv/blog/wp-content/uploads/2019/02/1-8.jpg</thumbnail>
