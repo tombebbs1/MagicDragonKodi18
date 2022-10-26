@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>Monarch (2022) RD Only</title>
+<tmdb>tv/125713</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</fanart>
+</dir>
+
+<dir>
 <title>Quantum Leap (2022) RD Only</title>
 <tmdb>tv/202102</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</thumbnail>
@@ -108,12 +115,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQeGtLGVUCjJDuZrsGp90v2eafs.jpg</fanart>
 </dir>
 
-<dir>
-<title>Monarch (2022) RD Only</title>
-<tmdb>tv/125713</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Star Wars: Andor (2022) RD Only</title>
