@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>Quantum Leap (2022) RD Only</title>
+<tmdb>tv/202102</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</fanart>
+</dir>
+
+<dir>
 <title>SEAL Team (2017) RD Only</title>
 <tmdb>tv/71789</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg</thumbnail>
@@ -49,12 +56,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</fanart>
 </dir>
 
-<dir>
-<title>Quantum Leap (2022) RD Only</title>
-<tmdb>tv/202102</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>SAS: Rogue Heroes (2022) RD Only</title>
