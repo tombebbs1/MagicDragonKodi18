@@ -1,6 +1,20 @@
 <items>
 
 <dir>
+<title>Star Wars: Andor (2022) RD Only</title>
+<tmdb>tv/83867</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Santa Clauses (2022) RD Only</title>
+<tmdb>tv/155631</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</fanart>
+</dir>
+
+<dir>
 <title>The Walking Dead (2010) RD Only</title>
 <tmdb>tv/1402</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
@@ -28,19 +42,9 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</fanart>
 </dir>
 
-<dir>
-<title>Star Wars: Andor (2022) RD Only</title>
-<tmdb>tv/83867</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</fanart>
-</dir>
 
-<dir>
-<title>The Santa Clauses (2022) RD Only</title>
-<tmdb>tv/155631</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</fanart>
-</dir>
+
+
 
 <dir>
 <title>American Horror Story (2011) RD Only</title>
