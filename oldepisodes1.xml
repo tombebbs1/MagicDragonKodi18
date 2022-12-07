@@ -1,20 +1,6 @@
 <items>
 
 <dir>
-<title>Young Rock (2021) RD Only</title>
-<tmdb>tv/97754</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lwptAIpQuuLG5tOrjtmAhFfu24.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lwptAIpQuuLG5tOrjtmAhFfu24.jpg</fanart>
-</dir>
-
-<dir>
-<title>The Peripheral (2022) RD Only</title>
-<tmdb>tv/95403</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccBe5BVeibdBEQU7l6P6BubajWV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccBe5BVeibdBEQU7l6P6BubajWV.jpg</fanart>
-</dir>
-
-<dir>
 <title>Monarch (2022) RD Only</title>
 <tmdb>tv/125713</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gwF3jnxoRhnp0D1alh5UgopnlW2.jpg</thumbnail>
@@ -34,6 +20,26 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qaGEywPNeZT2mxexdJLWHidTym.jpg</fanart>
 </dir>
+
+<dir>
+<title>Young Rock (2021) RD Only</title>
+<tmdb>tv/97754</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lwptAIpQuuLG5tOrjtmAhFfu24.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lwptAIpQuuLG5tOrjtmAhFfu24.jpg</fanart>
+</dir>
+
+<dir>
+<title>The Peripheral (2022) RD Only</title>
+<tmdb>tv/95403</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccBe5BVeibdBEQU7l6P6BubajWV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ccBe5BVeibdBEQU7l6P6BubajWV.jpg</fanart>
+</dir>
+
+
+
+
+
+
 
 <dir>
 <title>Wednesday (2022) RD Only</title>
