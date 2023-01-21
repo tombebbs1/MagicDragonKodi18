@@ -1,37 +1,11 @@
 <items>
 
-    "items": [
-        {
-            "content": "episode",
-            "episode": "1",
-            "fanart": "https://image.tmdb.org/t/p/original/t73x5Pb81mIGZR417aeGwbkR520.jpg",
-            "imdb": "tt7440726",
-            "link": [
-                "https://1fichier.com/?glnoe48d94taoi4e7zk4"
-            ],
-            "season": "2",
-            "summary": "Picking up in the aftermath of a terrible accident, a grieving Michael Desiato is beyond hope. After fleeing the scene, Eugene is aided by unlikely benefactors, including new Mayor Charlie Figaro, Big Mo and the police. Jimmy Baxter looks to expand his criminal empire, while Gina Baxter channels her anger over her dead son. The arrival in town of Assistant U.S. Attorney Olivia Delmont will upend Michael\u2019s life in ways he can\u2019t begin to imagine.",
-            "thumbnail": "https://image.tmdb.org/t/p/original/5NDs12paqvz4Jug3f13fC9XmSVN.jpg",
-            "title": "[COLOR=goldenrod]Part Eleven[/COLOR]",
-            "tvshowtitle": "Your Honor",
-            "type": "item",
-            "year": "2023"
-        },
-        {
-            "content": "episode",
-            "episode": "2",
-            "fanart": "https://image.tmdb.org/t/p/original/t73x5Pb81mIGZR417aeGwbkR520.jpg",
-            "imdb": "tt7440726",
-            "link": [
-                "https://1fichier.com/?4il2qexwc8qt715825jn"
-            ],
-            "season": "2",
-            "summary": "Michael Desiato discovers a jaw-dropping secret. Olivia Delmont seizes an opportunity to push Michael to make a dangerous decision. Meanwhile, a desperate business deal hatched by Little Mo and the Desire Crew threatens Eugene and his low-key life on the run. Elizabeth shelters Michael while Big Mo's big plans place her directly in the crosshairs of Gina.",
-            "thumbnail": "https://image.tmdb.org/t/p/original/5NDs12paqvz4Jug3f13fC9XmSVN.jpg",
-            "title": "[COLOR=goldenrod]Part Twelve[/COLOR]",
-            "tvshowtitle": "Your Honor",
-            "type": "item",
-            "year": "2023"
+<dir>
+<title>That '90s Show (2023) RD Only</title>
+<tmdb>tv/135959</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nZcufEuqZqNYMx6mNjlh2rmjDqx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nZcufEuqZqNYMx6mNjlh2rmjDqx.jpg</fanart>
+</dir>
 
 <dir>
 <title>Young Rock (2021) RD Only</title>
