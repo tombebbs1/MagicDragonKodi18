@@ -38,21 +38,6 @@
 <fanart>https://kodiapps.com/kodi-19-install-magic-dragon-on-matrix</fanart>
 </item>
 
-{
-    "items": [
-        {
-            "content": "movie",
-            "fanart": "https://image.tmdb.org/t/p/original/f2EpqYuhmWna3pfsB8aXhxihlqx.jpg",
-            "imdb": "tt14873054",
-            "link": [
-                "https://1fichier.com/?m5j5o4kuesbcs5tbwzxb"
-            ],
-            "summary": "Ryan Logan, a former Special Forces operative, who is battling to cope with life after the loss of his wife and is thrust into the criminal underworld to keep his only son from being taken from him.",
-            "thumbnail": "https://image.tmdb.org/t/p/original/f2EpqYuhmWna3pfsB8aXhxihlqx.jpg",
-            "title": "[COLOR=goldenrod]Transfusion[/COLOR]",
-            "type": "item",
-            "year": "2023"
-        },
 
 <item>
 <title>[COLORwhite]JUNG_E (2023) Dubbed[/COLOR]</title>
@@ -63,7 +48,7 @@
 <sublink>https://shavetape.cash/v/G3ARjO2ABrFdLq/JUNGE.2023.DUBBED.1080p.WEBRip.x264-RARBG.mp4(HD_Free_Link)</sublink>
 <sublink>https://real-debrid.com/d/QYWGILW2OUJVQ(Real_Debrid_Only)</sublink>
 </link>
-          "summary": "On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary.",
+<summary>"On an uninhabitable 22nd-century Earth, the outcome of a civil war hinges on cloning the brain of an elite soldier to create a robot mercenary</summary>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2LAtcGxhgfPmaKL7dItQ1n9TepH.jpg</thumbnail>
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </item>
