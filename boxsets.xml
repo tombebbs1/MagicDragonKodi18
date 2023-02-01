@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>[B][COLORorange]Top Rated Movies[/B][/COLOR]</title>
+<tmdb>movie/top-rated</tmdb>
+<thumbnail>https://posteet.com/wp-content/uploads/2019/10/movies1.jpg</thumbnail>
+<fanart>https://posteet.com/wp-content/uploads/2019/10/movies1.jpg</fanart>
+</dir>
+
+<dir>
 <title>[B][COLORwhite]Holidays[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/holidays.xml</link>
 <thumbnail>https://images.hindustantimes.com/img/2021/12/23/1600x900/robert-linder-CApbjQPRl28-unsplash_1640260678865_1640260703158.jpg</thumbnail>
