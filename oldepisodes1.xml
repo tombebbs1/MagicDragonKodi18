@@ -1,6 +1,21 @@
 <items>
 
 <dir>
+<title>Star Trek: Picard (2020) RD Only</title>
+<tmdb>tv/85949</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
+</dir>
+
+
+<dir>
+<title>Wolf Pack (2023) RD Only</title>
+<tmdb>tv/134865</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</fanart>
+</dir>
+
+<dir>
 <title>Mayor of Kingstown (2021) RD Only</title>
 <tmdb>tv/97951</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/86OUOPulMiM8rjrQSt4KMev7UAa.jpg</thumbnail>
@@ -28,20 +43,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7lwptAIpQuuLG5tOrjtmAhFfu24.jpg</fanart>
 </dir>
 
-<dir>
-<title>Star Trek: Picard (2020) RD Only</title>
-<tmdb>tv/85949</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
-</dir>
 
-
-<dir>
-<title>Wolf Pack (2023) RD Only</title>
-<tmdb>tv/134865</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rbCANmS1ogweUkIBghP03EHtdHB.jpg</fanart>
-</dir>
 
 <dir>
 <title>Poker Face (2023) RD Only</title>
