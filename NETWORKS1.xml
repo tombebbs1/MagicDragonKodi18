@@ -1,0 +1,47 @@
+<dir>
+      <title>[I][B][COLORwhite]HISTORY[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/michaeldibben/lists/history/items</trakt>
+      <thumbnail>https://i.ytimg.com/vi/utDHcbiOfKY/maxresdefault.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]NATIONAL GEOGRAPHIC[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/asmobarki/lists/national-geographic/items</trakt>
+      <thumbnail>https://www.ifia.com/wp-content/uploads/2020/05/seo.ngsversion.1565614141405.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]BRITBOX[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/asmobarki/lists/britbox/items</trakt>
+      <thumbnail>https://media.wired.co.uk/photos/606d9f697aff197af7c72c90/4:3/w_2664,h_1998,c_limit/britbox.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]NETFLIX[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/disgustedguy/lists/netflix/items</trakt>
+      <thumbnail>https://i.ytimg.com/vi/GV3HUDMQ-F8/maxresdefault.jpg</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]PRIME[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/danqbudz/lists/prime-video/items</trakt>
+      <thumbnail>https://www.pdvg.it/wp-content/uploads/2020/02/amazon-prime-video-pdvg.png</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]SKY ATLANTIC[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/ercinico87/lists/sky-atlantic/items</trakt>
+      <thumbnail>https://media.info/i/lf/0/1593556722/1500.png</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]BBC[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/tdatum/lists/bbc/items</trakt>
+      <thumbnail>https://www.internetmatters.org/wp-content/uploads/2019/04/BBC_logo.png</thumbnail>
+</dir>
+
+<dir>
+      <title>[I][B][COLORwhite]ITV[/COLOR][/B][/I]</title>
+      <trakt>https://api.trakt.tv/users/stuacott/lists/itv/items</trakt>
+      <thumbnail>https://www.tvbeurope.com/wp-content/uploads/2020/10/itv.jpg</thumbnail>
+</dir>
