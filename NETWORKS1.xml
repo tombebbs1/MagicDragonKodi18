@@ -1,4 +1,10 @@
 <dir>
+      <title>[I][B][COLORwhite]TV SHOWS CALENDER[/COLOR][/B][/I]</title>
+      <trakt>https://trakt.tv/calendars/shows/</trakt>
+      <thumbnail>https://i.ytimg.com/vi/utDHcbiOfKY/maxresdefault.jpg</thumbnail>
+</dir>
+
+<dir>
       <title>[I][B][COLORwhite]HISTORY[/COLOR][/B][/I]</title>
       <trakt>https://api.trakt.tv/users/michaeldibben/lists/history/items</trakt>
       <thumbnail>https://i.ytimg.com/vi/utDHcbiOfKY/maxresdefault.jpg</thumbnail>
