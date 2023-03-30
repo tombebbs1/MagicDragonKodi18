@@ -1,6 +1,13 @@
 <items>
 
 <dir>
+<title>Star Trek: Picard (2020) RD Only</title>
+<tmdb>tv/85949</tmdb>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
+</dir>
+
+<dir>
 <title>Quantum Leap (2022) RD Only</title>
 <tmdb>tv/202102</tmdb>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rWKnjdHixKig7PHxpt524DMUTQl.jpg</thumbnail>
@@ -14,12 +21,7 @@
 <fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg</fanart>
 </dir>
 
-<dir>
-<title>Star Trek: Picard (2020) RD Only</title>
-<tmdb>tv/85949</tmdb>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGrHmHbMvodVTyxRDIxljyg4f4T.jpg</fanart>
-</dir>
+
 
 <dir>
 <title>Waco: American Apocalypse (2023) RD Only</title>
