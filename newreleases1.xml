@@ -16,14 +16,14 @@
 <fanart>https://i.imgur.com/U5nKN8r.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <title>[B][COLOR white]Upcoming Trailers[/B][/COLOR]</title>
 <link>https://raw.githubusercontent.com/tombebbs1/MagicDragonKodi18/master/trailers.xml</link>
 <thumbnail>https://sofy.tv/blog/wp-content/uploads/2019/02/1-8.jpg</thumbnail>
 <fanart>https://sofy.tv/blog/wp-content/uploads/2019/02/1-8.jpg</fanart>
 </dir>
 
-<dir>
+dir>
 <title>Upcoming TMDB Movies</title>
 <tmdb>movie/upcoming</tmdb>
 <thumbnail>https://sofy.tv/blog/wp-content/uploads/2019/02/1-8.jpg</thumbnail>
